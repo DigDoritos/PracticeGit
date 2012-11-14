@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'PracticeGit' target in the 'PracticeGit' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
